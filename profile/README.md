@@ -7,6 +7,14 @@ Whether you're curious about cryptography, transactions, or script, Bitcoin Dojo
 
 ---
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="media/landing.png" alt="Bitcoin Dojo landing page" width="700"/>
+</p>
+
+---
+
 ## 🧭 Mission
 
 Our mission is to **teach Bitcoin by building it**.

@@ -10,7 +10,7 @@ Whether you're curious about cryptography, transactions, or script, Bitcoin Dojo
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="media/landing.png" alt="Bitcoin Dojo landing page" width="700"/>
+  <img src="assets/bitcoin-dojo-hero.png" alt="Bitcoin Dojo hero section" width="700"/>
 </p>
 
 ---
